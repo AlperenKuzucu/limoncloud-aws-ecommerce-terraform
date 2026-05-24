@@ -91,6 +91,3 @@ This repository is highly modularized, keeping code DRY and maintainable. Below 
 > The `.gitignore` file has been explicitly configured to prevent these files from being tracked.
 
 *For collaborative environments, it is highly recommended to configure an S3 remote backend with DynamoDB state locking to ensure state file security and consistency.*
-
----
-*Built with ❤️ by the LimonCloud Team.*
